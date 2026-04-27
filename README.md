@@ -32,8 +32,23 @@ Weather Update/
 │── package-lock.json
 │── .gitignore
 ```
-
 ---
+
+## ⚙️ Installation
+
+Clone the repository:
+```
+git clone https://github.com/your-username/node-weather-cli.git
+
+cd node-weather-cli
+```
+
+Install dependencies:
+```
+npm install
+```
+---
+
 
 ## ⚙️ Usage
 
