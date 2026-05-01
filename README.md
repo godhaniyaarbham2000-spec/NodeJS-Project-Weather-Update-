@@ -26,7 +26,7 @@ This project allows users to get real-time weather information by entering a cit
 
 ## 📂 Project Structure
 ```
-Weather Update/
+NodeJS-CLI-Project-Weather-Update/
 │── weather.js
 │── package.json
 │── package-lock.json
@@ -38,9 +38,11 @@ Weather Update/
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/node-weather-cli.git
-
-cd node-weather-cli
+git clone https://github.com/godhaniyaarbham2000-spec/NodeJS-CLI-Project-Weather-Update.git
+```
+Go to project folder
+```
+cd NodeJS-CLI-Project-Weather-Update
 ```
 
 Install dependencies:
