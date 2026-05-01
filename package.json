@@ -1,5 +1,5 @@
 {
-  "name": "node-weather-cli",
+  "name": "nodejs-cli-project-weather-update",
   "version": "1.0.0",
   "description": "A simple CLI weather app using Node.js",
   "main": "weather.js",
