@@ -1,7 +1,7 @@
 # 🌦️ Weather App CLI (Node.js Project)
 
 A simple command-line Weather Application built using Node.js.  
-This project allows users to get real-time weather information by entering a city name directly in the terminal. 
+This project allows users to get real-time weather information by entering a city name directly in the terminal.
 
 ---
 
